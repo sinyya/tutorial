@@ -3,7 +3,7 @@
 > A Vue.js project
 
 ## vue-cli란?
-vue 코어팀에서 제공하는 command line interface (terminal용 도구)
+vue 코어팀에서 제공하는 command line interface (terminal용 도구)   
 vue 프로젝트 환경설정을 잡아준다. (webpack 등)
 
 ## Build Setup
