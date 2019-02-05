@@ -3,3 +3,4 @@
 
 - [webpack tutorial](./webpack/webpack_getting_started)
 - [vue tutorial](./vue/getting-started-vue-cli)
+- [vue nuxt tutorial](./vue/getting-started-nuxt)
