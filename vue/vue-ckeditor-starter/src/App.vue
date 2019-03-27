@@ -32,6 +32,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  padding: 0 100px 100px;
 }
 
 h1, h2 {
@@ -51,4 +52,5 @@ li {
 a {
   color: #42b983;
 }
+.ck-content { height:500px; }
 </style>
