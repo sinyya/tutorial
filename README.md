@@ -6,3 +6,4 @@
 - [vue nuxt tutorial](./vue/getting-started-nuxt)
 - [vue nuxt starter](./vue/getting-started-nuxt-starter)
 - [vue CKEditor starter](./vue/vue-ckeditor-starter)
+- [vue Plyr](./vue/vue-plyr)
