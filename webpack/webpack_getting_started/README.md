@@ -6,7 +6,7 @@ webpack을 처음 시작하는 튜토리얼입니다. lodash를 패키징 합니
 [nodejs LTS 버전 설치](https://nodejs.org/ko/)
 
 #### 2. npm install
-```angular2
+```
 npm install 
 ```
 
