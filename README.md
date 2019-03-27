@@ -5,3 +5,4 @@
 - [vue tutorial](./vue/getting-started-vue-cli)
 - [vue nuxt tutorial](./vue/getting-started-nuxt)
 - [vue nuxt starter](./vue/getting-started-nuxt-starter)
+- [vue CKEditor starter](./vue/vue-ckeditor-starter)
